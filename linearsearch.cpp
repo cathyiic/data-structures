@@ -13,7 +13,7 @@ int linearSearch(int arr1[], int index, int x){
         //return -1;
         }
     return -1;
-    }
+}
 
 int main(){
     int arr1[] = {1, 2, 3, 4};
